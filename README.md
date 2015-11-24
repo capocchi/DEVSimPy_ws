@@ -1,6 +1,6 @@
 # What is DEVSimPy-ws
 DEVSimPy-ws is a WebSocket server for DEVSimPy.
-It allow to do synchronous communication between Python DEVSimPy models and the DEVSimPy-mob mobile application.
+It allows a synchronous communication between the Python DEVSimPy models and a DEVSimPy-mob mobile application.
 
 #Tech
 DEVSimPy-ws server uses a number of open source projects to work properly:
